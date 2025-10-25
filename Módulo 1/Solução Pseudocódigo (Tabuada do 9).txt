@@ -1,0 +1,9 @@
+Algoritmo "Tabuada_dos_9"
+
+1- Início
+2-    Leia Z
+3-    N1 = Z - 1
+4-    N2 = 10 - Z
+5-    R = (N1X10) + N2
+6-    Imprima R
+7- Fim

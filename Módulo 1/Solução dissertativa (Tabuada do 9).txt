@@ -1,0 +1,12 @@
+Problema: Tabuada do 9
+Solução Dissertativa:
+
+1. Leia e armazene o número Z que se deseja multiplicar por 9;
+
+2. Calcule o primeiro dígito como o número Z subtraído de 1 e armazene em N1;
+
+3. Calcule o segundo dígito como 10 subtraído pelo número Z e armazene em N2;
+
+4. Realize a expressão (n1X10)+n2 e armazene como resultado final R;
+
+5. Apresente R (o resultado final) e encerre o programa;
