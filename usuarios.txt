@@ -1,0 +1,2 @@
+admin,123,admin
+cliente,123,cliente
